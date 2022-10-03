@@ -1,0 +1,10 @@
+ccxt
+backtesting
+pyti
+dateparser
+pandas_ta
+plotly
+statsmodels
+pandas
+numpy
+scipy
