@@ -4,7 +4,7 @@ Cointegration and Augmented Dickey Fuller[ADF] test on Crypto assets for Pairs-t
 
 [Replit app](https://replit.com/@ranton95/Pair-Scanning-Nonagon#main.py)
 
+[![Pairs Trading Introduction Youtube video](https://i3.ytimg.com/vi/1zvvFOmwnRE/maxresdefault.jpg)](https://www.youtube.com/watch?v=1zvvFOmwnRE)
 
-[Pairs Trading Introduction Youtube video](https://www.youtube.com/watch?v=1zvvFOmwnRE)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=royceanton.Cointegration-Filter-for-Pairs-Trading)
